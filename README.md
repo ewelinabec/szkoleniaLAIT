@@ -1,1 +1,4 @@
-"# szkoleniaLAIT" 
+newfix
+test
+teścik
+teściunio
